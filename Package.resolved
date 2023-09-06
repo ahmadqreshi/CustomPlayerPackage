@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "brightcove-player-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/brightcove/brightcove-player-sdk-ios.git",
+      "state" : {
+        "revision" : "70da4aa45856c94e1ba76b0cf0f189d8cc0802f8",
+        "version" : "6.11.2"
+      }
+    },
+    {
+      "identity" : "learnapp-ios-resources",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/learnapp-co/learnapp-ios-resources.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "26b31eeb84fe0fadc8277e1c8add4c0540b0de3a"
+      }
+    },
+    {
+      "identity" : "lottie-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-spm.git",
+      "state" : {
+        "revision" : "f2b51cea3a3da8516d9f63f7cec1fabcdcf704dc",
+        "version" : "4.1.2"
+      }
+    }
+  ],
+  "version" : 2
+}
